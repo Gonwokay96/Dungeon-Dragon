@@ -1,0 +1,8 @@
+C:\Users\FTCC.LAPTOP-72E52POQ.000\OneDrive\Desktop\Dundeon_Dragon\Dungeon_Dragon\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\FTCC.LAPTOP-72E52POQ.000\OneDrive\Desktop\Dundeon_Dragon\Dungeon_Dragon\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\FTCC.LAPTOP-72E52POQ.000\OneDrive\Desktop\Dundeon_Dragon\Dungeon_Dragon\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\FTCC.LAPTOP-72E52POQ.000\OneDrive\Desktop\Dundeon_Dragon\Dungeon_Dragon\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\FTCC.LAPTOP-72E52POQ.000\OneDrive\Desktop\Dundeon_Dragon\Dungeon_Dragon\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\FTCC.LAPTOP-72E52POQ.000\OneDrive\Desktop\Dundeon_Dragon\Dungeon_Dragon\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\FTCC.LAPTOP-72E52POQ.000\OneDrive\Desktop\Dundeon_Dragon\Dungeon_Dragon\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\FTCC.LAPTOP-72E52POQ.000\OneDrive\Desktop\Dundeon_Dragon\Dungeon_Dragon\ConsoleUI\obj\Debug\ConsoleUI.pdb
